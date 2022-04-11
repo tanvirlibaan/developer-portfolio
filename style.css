@@ -66,6 +66,10 @@ h2 {
 
 }
 
+.ex {
+    margin-left: 5%;
+}
+
 #item1 {
     border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
